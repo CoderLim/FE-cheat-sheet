@@ -7,6 +7,7 @@
 ## Better
 
 1. [https://www.coderhood.com/5-problem-solving-skills-great-software-developers/](https://www.coderhood.com/5-problem-solving-skills-great-software-developers/)
+2. [How to read es specification](https://timothygu.me/es-howto/)
 
 ## ML
 
