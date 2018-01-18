@@ -8,7 +8,7 @@
 
 1. [https://www.coderhood.com/5-problem-solving-skills-great-software-developers/](https://www.coderhood.com/5-problem-solving-skills-great-software-developers/)
 2. [How to read es specification](https://timothygu.me/es-howto/)
-3. [nodejs-->timer][alinode.aliyun.com/blog/9]
+3. [nodejs-->timer](https://alinode.aliyun.com/blog/9)
 
 ## ML
 
