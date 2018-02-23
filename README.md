@@ -8,6 +8,10 @@
 
 1. [浏览器多进程到JS单线程](https://juejin.im/post/5a6547d0f265da3e283a1df7)
 
+## Design Pattern
+
+1. [工厂模式，依赖注入](https://medium.com/@pyrolistical/factory-functions-pattern-in-depth-356d14801c91)
+
 ## TDD
 
 1. [https://blog.risingstack.com/getting-node-js-testing-and-tdd-right-node-js-at-scale/](https://blog.risingstack.com/getting-node-js-testing-and-tdd-right-node-js-at-scale/)
