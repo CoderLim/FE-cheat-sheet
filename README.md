@@ -29,3 +29,4 @@
 ## ML
 
 1. [入门必备](https://github.com/KeKe-Li/tutorial)
+2. [谷歌教程](https://developers.google.com/machine-learning/crash-course/)
