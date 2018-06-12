@@ -1,5 +1,9 @@
 # FE-cheat-sheet
 
+## API
+
+1. [10-best-practices-for-writing-node-js-rest-apis](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/)
+
 ## Conception
 
 1. [node定时器详解](http://www.ruanyifeng.com/blog/2018/02/node-event-loop.html)
