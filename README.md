@@ -21,6 +21,10 @@
 
 1. [工厂模式，依赖注入](https://medium.com/@pyrolistical/factory-functions-pattern-in-depth-356d14801c91)
 
+## 函数式编程
+
+1. [很不错的gitbook](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)
+
 ## TDD
 
 1. [https://blog.risingstack.com/getting-node-js-testing-and-tdd-right-node-js-at-scale/](https://blog.risingstack.com/getting-node-js-testing-and-tdd-right-node-js-at-scale/)
