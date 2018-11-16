@@ -29,6 +29,7 @@
 
 1. [浏览器多进程到JS单线程](https://juejin.im/post/5a6547d0f265da3e283a1df7)
 2. [js编译器结构、Shape、IC、对象和数组是如何存储的](https://mathiasbynens.be/notes/shapes-ics)
+3. [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 
 ## 函数式编程
 
