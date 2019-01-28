@@ -44,3 +44,4 @@
 
 1. [入门必备](https://github.com/KeKe-Li/tutorial)
 2. [谷歌教程](https://developers.google.com/machine-learning/crash-course/)
+3. [Tensorflow：识别手写数字](https://gitbook.cn/gitchat/column/59f7e38160c9361563ebea95#catalog)
