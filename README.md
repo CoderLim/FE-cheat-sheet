@@ -39,6 +39,7 @@
 
 1. [https://www.coderhood.com/5-problem-solving-skills-great-software-developers/](https://www.coderhood.com/5-problem-solving-skills-great-software-developers/)
 2. [How to read es specification](https://timothygu.me/es-howto/)
+3. [组件库的思考](https://github.com/fex-team/fit/issues/3)
 
 ## ML
 
