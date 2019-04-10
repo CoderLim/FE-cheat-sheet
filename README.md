@@ -15,8 +15,8 @@
 ## Security
 
 1. [helmet.js](https://helmetjs.github.io/)
-2. [Auth](https://www.chrisyue.com/security-issue-about-oauth-2-0-you-should-know.html)
-
+2. [Auth2.0](https://www.chrisyue.com/security-issue-about-oauth-2-0-you-should-know.html)
+   [Auth2.0 RFC](https://tools.ietf.org/html/rfc6749#section-4.2)
 ## Node
 
 1. [node定时器详解](http://www.ruanyifeng.com/blog/2018/02/node-event-loop.html)
