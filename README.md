@@ -1,5 +1,9 @@
 # FE-cheat-sheet
 
+## CSS
+
+1. [BEM common problems](https://www.w3cplus.com/css/battling-bem-extended-edition-common-problems-and-how-to-avoid-them.html)
+
 ## API
 
 1. [10-best-practices-for-writing-node-js-rest-apis](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/)
