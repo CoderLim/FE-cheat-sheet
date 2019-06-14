@@ -55,3 +55,4 @@
 ## QA
 
 1. [为什么 inline-block 且 overflow:hidden 的元素的 baseline 在元素底部](https://stackoverflow.com/questions/32078950/why-baseline-of-inline-block-element-with-overflowhidden-is-set-to-its-bott/34183059)
+2. [inlineblock 的 vertical-align](https://github.com/o2team/H5Skills/issues/47)
