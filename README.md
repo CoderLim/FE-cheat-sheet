@@ -48,6 +48,7 @@
 1. [https://www.coderhood.com/5-problem-solving-skills-great-software-developers/](https://www.coderhood.com/5-problem-solving-skills-great-software-developers/)
 2. [How to read es specification](https://timothygu.me/es-howto/)
 3. [组件库的思考](https://github.com/fex-team/fit/issues/3)
+4. [Cam Jackson: 微前端](https://martinfowler.com/articles/micro-frontends.html)
 
 ## ML
 
