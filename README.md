@@ -7,6 +7,10 @@
 
 1. [BEM common problems](https://www.w3cplus.com/css/battling-bem-extended-edition-common-problems-and-how-to-avoid-them.html)
 
+## GIT
+1. [图解 GIT](https://marklodato.github.io/visual-git-guide/index-zh-cn.html)
+2. [这才是真正的Git——Git内部原理揭秘！](https://zhuanlan.zhihu.com/p/96631135)
+
 ## API
 
 1. [10-best-practices-for-writing-node-js-rest-apis](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/)
