@@ -7,6 +7,10 @@
 
 1. [BEM common problems](https://www.w3cplus.com/css/battling-bem-extended-edition-common-problems-and-how-to-avoid-them.html)
 
+## React
+
+1. [react 揭秘](https://react.iamkasong.com/)
+
 ## GIT
 1. [图解 GIT](https://marklodato.github.io/visual-git-guide/index-zh-cn.html)
 2. [这才是真正的Git——Git内部原理揭秘！](https://zhuanlan.zhihu.com/p/96631135)
