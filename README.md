@@ -10,6 +10,7 @@
 ## React
 
 1. [react 揭秘](https://react.iamkasong.com/)
+2. [Build your react](https://pomb.us/build-your-own-react/)
 
 ## GIT
 1. [图解 GIT](https://marklodato.github.io/visual-git-guide/index-zh-cn.html)
