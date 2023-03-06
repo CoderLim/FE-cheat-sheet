@@ -68,6 +68,9 @@
 2. [谷歌教程](https://developers.google.com/machine-learning/crash-course/)
 3. [Tensorflow：识别手写数字](https://gitbook.cn/gitchat/column/59f7e38160c9361563ebea95#catalog)
 
+## 成品
+1. [HooksAdmin react 管理后台](https://github.com/HalseySpicy/Hooks-Admin)
+
 ## QA
 
 1. [为什么 inline-block 且 overflow:hidden 的元素的 baseline 在元素底部](https://stackoverflow.com/questions/32078950/why-baseline-of-inline-block-element-with-overflowhidden-is-set-to-its-bott/34183059)
