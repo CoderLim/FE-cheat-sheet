@@ -70,6 +70,7 @@
 
 ## 成品
 1. [HooksAdmin react 管理后台](https://github.com/HalseySpicy/Hooks-Admin)
+2. [Geeker vue 管理后台](https://github.com/HalseySpicy/Geeker-Admin)
 
 ## QA
 
