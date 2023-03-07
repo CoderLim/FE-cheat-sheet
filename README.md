@@ -1,6 +1,7 @@
 # FE-cheat-sheet
 
-## VSCode 插件
+## VSCode
+### 插件
 AutoCloseTag
 AutoCompleteTag
 AutoRenameTag
@@ -15,6 +16,149 @@ TODO Highlight
 Vetur
 Vim
 ChatGPT
+
+### 配置
+```
+// .vscode/extensions.json
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "jpoissonnier.vscode-styled-components",
+    "drknoxy.eslint-disable-snippets",
+    "wix.vscode-import-cost",
+    "eg2.vscode-npm-script",
+    "wayou.vscode-todo-highlight",
+    "esbenp.prettier-vscode"
+  ]
+}
+
+```
+
+```
+// .vscode/settings.json
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "eslint.options": {
+    "configFile": "./.eslintrc"
+  },
+  "eslint.probe": ["javascript", "javascriptreact", "typescript", "typescriptreact", "html", "vue", "markdown"],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+    // "source.organizeImports": true
+  },
+  "editor.formatOnSave": true,
+  "autoimport.useSemiColon": true,
+  "[json]": {
+    "editor.tabSize": 2,
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+  },
+  "[jsonc]": {
+    "editor.tabSize": 2,
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+  },
+  "cSpell.words": ["aksks", "unavail"],
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": true
+}
+```
+
+```
+// .prettierrc
+{
+  "printWidth": 120,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "jsxBracketSameLine": true,
+  "semi": true,
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "overrides": [
+    {
+      "files": "*.ts",
+      "options": {
+        "parser": "typescript"
+      }
+    }
+  ]
+}
+```
+
+```
+// .stylelintrc.json
+{
+  "extends": "stylelint-config-recommended",
+  "rules": {
+    "no-descending-specificity": null,
+    "declaration-colon-newline-after": null,
+    "at-rule-no-unknown": null,
+    "selector-pseudo-class-no-unknown": [
+      true,
+      {
+        "ignorePseudoClasses": ["global"]
+      }
+    ]
+  }
+}
+
+```
+
+```
+.eslintrc
+{
+  "root": true,
+  "env": {
+    "browser": true,
+    "es6": true
+  },
+  "extends": ["eslint:recommended", "plugin:react/recommended", "plugin:@typescript-eslint/recommended"],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "experimentalObjectRestSpread": true,
+      "jsx": true
+    },
+    "sourceType": "module"
+  },
+  "plugins": ["@typescript-eslint", "react", "react-hooks"],
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
+  "rules": {
+    // "indent": ["error", 2, { "SwitchCase": 1 }],
+    "quotes": ["error", "single"],
+    "semi": ["error", "always"],
+    "no-console": "error",
+    "block-spacing": ["error", "always"],
+    "no-trailing-spaces": "error",
+    "object-curly-spacing": ["error", "always"],
+    "no-empty": 0,
+    "react/prop-types": [
+      "warn",
+      {
+        "ignore": ["children"]
+      }
+    ],
+    "@typescript-eslint/no-unused-vars": ["warn", { "vars": "local" }],
+    "@typescript-eslint/ban-ts-ignore": 0,
+    "@typescript-eslint/ban-ts-comment": 0,
+    "@typescript-eslint/no-explicit-any": 0,
+    "@typescript-eslint/camelcase": 0,
+    "@typescript-eslint/no-empty-interface": 0,
+    "@typescript-eslint/explicit-function-return-type": 0,
+    "@typescript-eslint/no-non-null-assertion": 0,
+    "@typescript-eslint/explicit-module-boundary-types": 0,
+    "arrow-parens": [2, "as-needed"]
+  }
+}
+
+```
 
 ## HTML
 
