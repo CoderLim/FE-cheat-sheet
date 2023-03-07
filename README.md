@@ -1,5 +1,21 @@
 # FE-cheat-sheet
 
+## VSCode 插件
+AutoCloseTag
+AutoCompleteTag
+AutoRenameTag
+CodeSpellChecker
+ESLint
+StyleLint
+GitGraph
+importCost
+Prettier - Code formatter
+Tailwind CSS IntelliSense
+TODO Highlight
+Vetur
+Vim
+ChatGPT
+
 ## HTML
 
 1. [一张图搞定各种属性：offsetTop、clientTop、scrollTop等](https://www.programering.com/a/MTM2QTNwATA.html)
