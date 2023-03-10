@@ -4,6 +4,7 @@
 1. [消除](https://github.com/CoderLim/pop_stars)
 2. [简版消消乐](https://gitee.com/coder-lim/simple-xiaoxiaole)
 3. [炮弹抛射](https://gitee.com/coder-lim/cocos-case-projectile)
+4. [一堆效果](https://gitee.com/coder-lim/cocos-creator-examples)
 
 ## 开发技巧
 1. cmd+\ 或 F8 可以立即断下来，方便查看 popover 的样式；
