@@ -1,5 +1,8 @@
 # FE-cheat-sheet
 
+## cocos creator 源码
+1. [消除](https://github.com/CoderLim/pop_stars)
+
 ## 开发技巧
 1. cmd+\ 或 F8 可以立即断下来，方便查看 popover 的样式；
 
