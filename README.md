@@ -5,7 +5,8 @@
 2. [简版消消乐](https://gitee.com/coder-lim/simple-xiaoxiaole)
 3. [炮弹抛射](https://gitee.com/coder-lim/cocos-case-projectile)
 4. [2048](https://gitee.com/coder-lim/cocos-creator3.x-2048)
-5. [一堆效果](https://gitee.com/coder-lim/cocos-creator-examples)
+5. [贪吃蛇简版](https://gitee.com/coder-lim/ccc-snake)
+6. [一堆效果](https://gitee.com/coder-lim/cocos-creator-examples)
 
 公众号：白玉无冰 / 菜鸟小栈
 
