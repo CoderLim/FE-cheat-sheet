@@ -7,7 +7,7 @@
 4. [2048](https://gitee.com/coder-lim/cocos-creator3.x-2048)
 5. [一堆效果](https://gitee.com/coder-lim/cocos-creator-examples)
 
-公众号：白玉无冰
+公众号：白玉无冰 / 菜鸟小栈
 
 ## 开发技巧
 1. cmd+\ 或 F8 可以立即断下来，方便查看 popover 的样式；
