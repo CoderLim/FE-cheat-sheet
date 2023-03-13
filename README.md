@@ -1,5 +1,9 @@
 # FE-cheat-sheet
 
+## chatgpt
+1. [官方node库](https://github.com/openai/openai-node)
+2. [非官方库，支持流式数据](https://github.com/transitive-bullshit/chatgpt-api#install)
+
 ## cocos creator 源码
 1. [消除](https://github.com/CoderLim/pop_stars)
 2. [简版消消乐](https://gitee.com/coder-lim/simple-xiaoxiaole)
