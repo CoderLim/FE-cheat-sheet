@@ -191,6 +191,9 @@ ChatGPT
 3. [Build your own x](https://github.com/danistefanovic/build-your-own-x)
 4. [react-philosophies](https://github.com/mithi/react-philosophies)
 
+## 面试题
+1. https://vue3js.cn/interview/
+
 ## GIT
 1. [图解 GIT](https://marklodato.github.io/visual-git-guide/index-zh-cn.html)
 2. [这才是真正的Git——Git内部原理揭秘！](https://zhuanlan.zhihu.com/p/96631135)
