@@ -252,6 +252,9 @@ ChatGPT
 1. [HooksAdmin react 管理后台](https://github.com/HalseySpicy/Hooks-Admin)
 2. [Geeker vue 管理后台](https://github.com/HalseySpicy/Geeker-Admin)
 
+## 赚钱
+1. [推特精华合订本@JourneymanChina](https://thundering-dinosaur-973.notion.site/JourneymanChina-e7c9bd20b6b544e0aa1e3fba5abac42a)
+
 ## QA
 
 1. [为什么 inline-block 且 overflow:hidden 的元素的 baseline 在元素底部](https://stackoverflow.com/questions/32078950/why-baseline-of-inline-block-element-with-overflowhidden-is-set-to-its-bott/34183059)
