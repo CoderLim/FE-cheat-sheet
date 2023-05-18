@@ -1,9 +1,5 @@
 # FE-cheat-sheet
 
-## chatgpt
-1. [官方node库](https://github.com/openai/openai-node)
-2. [非官方库，支持流式数据](https://github.com/transitive-bullshit/chatgpt-api#install)
-
 ## cocos creator 源码
 1. [消除](https://github.com/CoderLim/pop_stars)
 2. [简版消消乐](https://gitee.com/coder-lim/simple-xiaoxiaole)
@@ -190,6 +186,9 @@ ChatGPT
 2. [Build your react](https://pomb.us/build-your-own-react/)
 3. [Build your own x](https://github.com/danistefanovic/build-your-own-x)
 4. [react-philosophies](https://github.com/mithi/react-philosophies)
+
+## 性能优化
+1. [前端性能优化](https://bytedance.feishu.cn/wiki/wikcn871UXVuiodtl3F2IGgTwRg)
 
 ## 面试题
 1. https://vue3js.cn/interview/
