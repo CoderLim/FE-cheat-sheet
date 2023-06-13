@@ -1,5 +1,30 @@
 # FE-cheat-sheet
 
+## 安装 node-sass 报错（仅供参考）
+```
+第一步：保证依赖版本是匹配的
+1. node 与 pnpm：https://pnpm.io/installation#compatibility
+2. node 与 node-sass：https://www.npmjs.com/package/node-sass
+
+
+第二步：python 版本
+brew update
+brew install pyenv
+echo 'eval "$(pyenv init -)"' >> ~/.profile
+
+# 安装 2.7
+pyenv install 2.7.18
+pyenv global system 2.7.18
+
+
+# 移除
+brew uninstall python@3.11
+# 安装 3.10.1
+# 设置 python 版本
+pyenv 2.7.18 3.10.1
+```
+
+
 ## cocos creator 源码
 1. [消除](https://github.com/CoderLim/pop_stars)
 2. [简版消消乐](https://gitee.com/coder-lim/simple-xiaoxiaole)
